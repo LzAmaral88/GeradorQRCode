@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "expo": "~51.0.28",
+    "expo-print": "~13.0.1",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
-    "react-native": "0.74.5"
+    "react-native": "0.74.5",
+    "react-native-qrcode-svg": "^6.3.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
